@@ -1,0 +1,15 @@
+{
+   "mcpServers": {
+      "MongoDB": {
+         "command": "npx",
+         "args": [
+            "-y", "mongodb-mcp-server",
+            "--connectionString",
+            "mongodb+srv://mcp_server:walkingtree@cluster1.74h70gm.mongodb.net/?retryWrites=true&w=majority&appName=cluster1"
+
+         ]
+      }
+   }
+   
+}
+

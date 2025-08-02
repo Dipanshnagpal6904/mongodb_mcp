@@ -1,0 +1,7 @@
+mcp-use
+python-dotenv
+openai
+langchain
+langchain-openai
+asyncio
+
